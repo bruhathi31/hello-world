@@ -1,6 +1,5 @@
 # hello-world
-Hello World Lab
+Hello Sugar Labs,
 
-Hi my name is bruhathi, i'm from down under!
+My name is Bruhathi and I'm a year 9 high school student from down under! I have a passion for STEM field subjects. 
 
-I love coding!
